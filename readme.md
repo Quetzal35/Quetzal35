@@ -31,16 +31,78 @@ Ici, la règle du jeu est simple : **créer, explorer, progresser.**
 
 ## 🎯 Quête principale
 
-Faire de cet espace une vitrine de mes réalisations personnelles publiques, une étape à la fois.
+Créer des expériences personnelles entre aventure, exploration et combat, une étape à la fois.
 
 ```text
-PROFIL EN CONSTRUCTION
-▓▓▓▓▓▓░░░░░░░░░░░░░░  Prochaine étape : les projets !
+QUATRE PROJETS DANS LA PARTIE
+🚣 Exploration  ·  🏴‍☠️ Trésors  ·  ⚔️ Combat  ·  🖱️ Aventure
 ```
 
 ## 🗺️ Carte des projets
 
-La sélection de projets arrivera ici au fil des publications.
+Mes projets personnels sont présentés ici ; leurs dépôts et leur code source restent privés.
+
+*Les pourcentages sont mes estimations personnelles de progression vers la version que je souhaite réaliser.*
+
+### 🚣 Rowing Adventure — Bretagne
+
+```text
+AVANCEMENT  [████████████░░░░░░░░]  60 %
+```
+
+**Chaque coup de rame vous emmène un peu plus loin.**
+
+Une expérience de balade en 3D dans le navigateur, des rives boisées à la côte. Parcours de 2, 5 ou 10 km, lieux à découvrir, plusieurs vues caméra et bilan de session. Un mode démo permet l’exploration sans équipement ; une connexion au moniteur PM5 est prévue dans les navigateurs compatibles.
+
+**Technologies :** JavaScript, Three.js, HTML/CSS, Web Bluetooth.  
+**Statut :** prototype avec mode démo et intégration PM5 ; compatibilité matérielle à confirmer selon l’équipement.  
+🔒 Code privé.
+
+### 🏴‍☠️ Les Trésors du Dragon Rouge
+
+```text
+AVANCEMENT  [██░░░░░░░░░░░░░░░░░░]  10 %
+```
+
+**Lever l’ancre. Trouver les fragments. Révéler l’île du Dragon.**
+
+Un jeu solo de navigation pirate dans le navigateur. Explorez un archipel généré à partir d’une seed, découvrez des îles et des épaves, récoltez des trésors et échangez-les contre les fragments d’une carte. Grille hexagonale, brouillard de guerre, mini-carte et sauvegarde locale accompagnent l’expédition.
+
+**Technologies :** JavaScript, HTML/CSS, localStorage, tests avec Node.js.  
+**Statut :** prototype jouable ; présentation visuelle et validation mobile en cours.  
+🔒 Code privé.
+
+### ⚔️ Hana no Kessen
+
+```text
+AVANCEMENT  [████████████████░░░░]  80 %
+```
+
+**Choisissez votre combattant. Entrez dans l’arène.**
+
+Un jeu de combat 2D à l’univers manga : dix combattants, huit arènes animées, duels contre l’IA ou à deux joueurs en local, mode Arcade avec épilogues et entraînement. Le projet associe personnages, animations, décors et musique dans une expérience pensée pour le PC, avec un portage homebrew Switch en préparation.
+
+**Technologies :** Lua, LÖVE, LÖVE Potion.  
+**Statut :** version PC vérifiée ; validation sur Switch physique restante.  
+🔒 Code privé.
+
+### 🖱️ GAËL.EXE
+
+```text
+AVANCEMENT  [██░░░░░░░░░░░░░░░░░░]  10 %
+```
+
+**Une plage, des objets mystérieux… et une aventure qui commence.**
+
+Un projet d’aventure point-and-click avec introduction illustrée et exploration de la plage du Dragon Rouge. La démo Windows propose déplacements animés, observations, interactions et sauvegarde rapide. Le scénario complet, les énigmes et les zones suivantes restent à développer.
+
+**Technologies :** Adventure Game Studio, scripts AGS, PowerShell pour la préparation et la compilation.  
+**Statut :** démo Windows ; aventure complète en développement.  
+🔒 Code privé.
+
+## 🧰 Inventaire technique
+
+Technologies utilisées dans mes projets personnels : **JavaScript · HTML/CSS · Three.js · Lua · LÖVE · Adventure Game Studio**.
 
 **[→ Explorer les dépôts publics](https://github.com/Quetzal35?tab=repositories)**
 
